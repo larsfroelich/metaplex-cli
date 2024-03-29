@@ -6,7 +6,7 @@ use spl_associated_token_account::{
     self, create_associated_token_account, get_associated_token_address,
 };
 
-use metaplex_token_metadata::{
+use mpl_token_metadata::{
     self,
     error::MetadataError,
     instruction::{create_master_edition, create_metadata_accounts, update_metadata_accounts},

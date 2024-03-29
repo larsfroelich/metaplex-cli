@@ -13,7 +13,6 @@ console = "0.15.0"
 futures = "0.3.17"
 indicatif = "0.16.2"
 log = "0.4.14"
-metaplex-token-metadata = "0.0.1"
 num-traits = "0.2.14"
 serde = "1.0.130"
 serde_derive = "1.0.130"
@@ -32,4 +31,5 @@ spl-memo = { version = "3.0.1", features = ["no-entrypoint"] }
 thiserror = "1.0.30"
 tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
 url = "2.2.2"
+mpl-token-metadata = "4.1.2"
 
